@@ -17,3 +17,8 @@ and help others in a meaningful way. I remain passionate about healthcare, medic
 developeralain/developeralain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**JavaScript-Projects**
+- _Tic Tac Toe Game:_ created a basic Tic Tac Toe game with a computer opponent algorhythm built-in.
+- _Pizza Order Program:_ created a simple program to simulate ordering a pizza online. The user can select pizza size and toppings, and the program will keep track of the order total. When you place your order, a receipt describing your order and total owed is printed.
+- _Calculator Interface:_ created a simple calculator with a user interface that allows for basic arhythmetic functions to be performed.
