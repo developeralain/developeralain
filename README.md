@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @developeralain - I'm a software developer, a Registered Nurse, a published clinical researcher, and a passionate lifelong learner.
 
 - 👀 I’m interested in projects to do with Python/Django, C#/.NET, JavaScript, blockchain; I'm open to all projects that improve others' quality of life, are challenging, 
-and help others in a meaningful way. I remain passionate about healthcare, medicine, and research, and so am especially excited about work within those domains.
+and help others in a meaningful way. I remain passionate about healthcare, medicine, and research, and so am especially excited about work that helps others in a meaningful way.
 - 🌱 I’m trained and skilled in: HTML, CSS, Javascript, Python/Django, SQL, C#/.NET, version control systems (Git, GitHub), DevOps (e.g. Azure)
-- 💞️ I’m looking to collaborate on ... interesting projects, especially medical or healthcare related (shoot me an email!)
+- 💞️ I’m looking to collaborate on ... interesting projects, (shoot me an email!)
 - 📫 Email: alainsoftwaredev@gmail.com 
 
 **C#-and-Associated-Framework-Projects-(.Net, Core, ASP .Net, etc)**
