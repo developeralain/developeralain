@@ -10,7 +10,6 @@ and help others in a meaningful way. I remain passionate about healthcare, medic
 
 - _Theater Group Content Management System using .Net ASP MVC:_ as part of my internship with Prosper IT Consulting, worked within a SCRUM team using Azure DevOps to develop a content management system for a Portland theater group. Various team members worked on various aspects of this project. 
 I was tasked with developing the section of the web app that dealt with CRUD operations pertaining to rentals of the theater group's rooms and equipment. I developed both the front-end and back-end components: back-end utilized Entity Framework and C# while front-end used Bootstrap4, FontAwesome, Razor, and JavaScript.
-
 Project Highlights:
 Index Page - the centerpiece was the Index view which displayed in a neat and categorized fashion all rentals from customers. I developed logic to allow for search functionality and filtration of results based on minimum or maximum price. On the front-end, the user could click a button to switch between searching terms or minimum price and terms or maximum price.
 Create Rental Page - featured a dropdown menu that allowed a user to select which form they'd like to have displayed in order to create a rental. This dynamic aspect allowed users to create rentals for rooms or equipment all on the same page and seemlessly. 
