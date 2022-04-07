@@ -6,7 +6,7 @@ and help others in a meaningful way. I remain passionate about healthcare, medic
 -  I’m looking to collaborate on ... interesting projects, (shoot me an email!)
 - 📫 Email: alainsoftwaredev@gmail.com 
   - Portfolio Website: https://developeralain.github.io/
-  - LinkedIn: https://github.com/developeralain
+  - LinkedIn: https://www.linkedin.com/in/alainsoftwaredev/
 
 **C#-and-Associated-Framework-Projects-(.Net, Core, ASP .Net, etc)**
 
